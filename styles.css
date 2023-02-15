@@ -55,6 +55,10 @@ img {
     padding: 0 0.25rem;
 }
 
+.card-description {
+    color: var(--Grayish-blue);
+}
+
 footer {
     margin: 20px auto;
 }
